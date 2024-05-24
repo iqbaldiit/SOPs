@@ -1,4 +1,4 @@
-# This demo document is designed for the business people, software developers, and executable stakeholders to understand the standard operating process (SOP).
+# This is a demo document that designed for the business people, software developers, and executable stakeholders to understand the standard operating process (SOP).
 
 ## 0101. User Management
 ### Overview
@@ -31,8 +31,6 @@ This section is responsible for creating and managing users, groups and roles. I
 
 ![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/7779d21e-67f2-40cf-9882-70b957a1077e)
 
-
-
 ### Business Constraints
 1.	User login ID must be unique. [Recommended “Employee code”]
 2.	One employee must not have multiple users.
@@ -45,4 +43,34 @@ This section is responsible for creating and managing users, groups and roles. I
 9.	If the user is not bound with location, S/he can log in from around the world.
 10.	Users can be bound with multiple locations and once bound, S/he can log in the system only from a defined location or area.
 11.	One user can’t exist in multiple user groups.
+
+### 01.01.02-Change Password
+It is recommended that password should be changed at his/her first login which the system provided while enrolled. On the other hand, a user may change his or her password at any time. 
+#### Process Flowchart
+
+![image](https://github.com/iqbaldiit/SOPs/assets/11534659/560392ab-a558-49b9-9735-23deec39b0a7)
+
+#### Activity Description
+
+![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/a4b8b634-1e70-4878-9df0-27f331a622f2)
+
+#### Business Constraints 
+1.	Password may have a convention like 
+a.	Passwords must be in minimum 6 characters.
+b.	Characters should include at least one number (1-9), one capital alphabet (A-Z).
+c.	Character should not include special characters (*, /, `, etc.) and zero (0).
+
+## 0302. Recruitment Process
+### 03.02.01- HR Requisition
+#### Process Flowchart 
+
+![image](https://github.com/iqbaldiit/SOPs/assets/11534659/86e20958-e1ea-4e20-9fba-6e70bfb1ee72)
+
+#### Activity Description
+![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/35fd2121-e272-4389-9d58-3b0bf619fa25)
+
+
+
+
+
 
