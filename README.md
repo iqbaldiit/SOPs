@@ -29,7 +29,7 @@ This section is responsible for creating and managing users, groups and roles. I
 
 #### Activity Description
 
-![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/7779d21e-67f2-40cf-9882-70b957a1077e)
+![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/c9ef644c-9247-40d5-aad8-fa2b717c31ea)
 
 ### Business Constraints
 1.	User login ID must be unique. [Recommended “Employee code”]
