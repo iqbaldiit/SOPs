@@ -52,7 +52,7 @@ It is recommended that password should be changed at his/her first login which t
 
 #### Activity Description
 
-![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/a4b8b634-1e70-4878-9df0-27f331a622f2)
+![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/e4b62cf2-0e36-4c80-b2d8-3349dcd2966e)
 
 #### Business Constraints 
 1.	Password may have a convention like 
