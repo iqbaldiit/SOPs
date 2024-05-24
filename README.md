@@ -1,4 +1,4 @@
-# This is a demo document that designed for the business people, software developers, and executable stakeholders to understand the standard operating process (SOP).
+# This is a demo document (SOP) that designed for the business people, software developers, and executable stakeholders to understand the standard operating process (SOP).
 
 ## 0101. User Management
 ### Overview
