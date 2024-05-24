@@ -28,25 +28,9 @@ This section is responsible for creating and managing users, groups and roles. I
 ![image](https://github.com/iqbaldiit/SOPs/assets/11534659/c32d412c-3178-4bc2-a757-1f58d8d29043)
 
 #### Activity Description
-Step	Activity	Responsible	Description / Case / User stories
-1	Request for creating users. (M)	Employee	Scenario: Once an employee has enrolled but the user is not created automatically at the time of onboarding.
-Case: Employee manually fill-up a user creation form (Employee code, name, department, designation, Purpose) and request to system admin to create a user.  [Ref: MSF-01]
 
-2	Enter Employee Information	System Admin	System admin opens the User creation interface and sets employee code to find out the employee information from the system.
-3	Check Request Validity	System	System checks by the “employee code” that the employee meets the following criteria
-1.	Employee existence.  
-2.	Active Employee who has valid official information.
-3.	Duplicate user check.
-If the criteria not matched system admin may view the following message on screen
-1.	For criteria 1: “Invalid Employee code. Try again!”
-2.	For criteria 2: “This employee is inactive. Please activate the employee first.”
-3.	For criteria 2: “Onboarding process is still incomplete. Please complete the onboarding process first.”
-4.	For criteria 3: “User already exists by this employee. Login ID: <login_id>” 
-4	Get Employee Information	System	After completing step 3, if the request is valid, the system will provide Employee information with employee name, phone and email.
-5	Submit 	System Admin	System admin will view employee’s information at user creation interface with Auto suggested Login ID. If the user wants, S/he can change the login ID as desired but Login ID must be unique.
-6	Create user record	System	Case: After submitting, System will create a new user with checking all validity (Duplicate, Uniqueness) and update the user database. If there is any inconsistency show the message of step 3.
-Deliverable: Auto user password will be created. 
-7	Generate Email	System	Once a record has been created successfully, the system will send an email to the Employee with user name & password. [Ref: ENF-01]
+![user_management_activity](https://github.com/iqbaldiit/SOPs/assets/11534659/7779d21e-67f2-40cf-9882-70b957a1077e)
+
 
 
 ### Business Constraints
