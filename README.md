@@ -56,9 +56,9 @@ It is recommended that password should be changed at his/her first login which t
 
 #### Business Constraints 
 1.	Password may have a convention like 
-a.	Passwords must be in minimum 6 characters.
-b.	Characters should include at least one number (1-9), one capital alphabet (A-Z).
-c.	Character should not include special characters (*, /, `, etc.) and zero (0).
+  a.	Passwords must be in minimum 6 characters.
+  b.	Characters should include at least one number (1-9), one capital alphabet (A-Z).
+  c.	Character should not include special characters (*, /, `, etc.) and zero (0).
 
 ## 0302. Recruitment Process
 ### 03.02.01- HR Requisition
