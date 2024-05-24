@@ -25,4 +25,5 @@ This section is responsible for creating and managing users, groups and roles. I
 ### 01.01.01-User creation
 #### Process Flowchart (Insert)
 
+![image](https://github.com/iqbaldiit/SOPs/assets/11534659/c32d412c-3178-4bc2-a757-1f58d8d29043)
 
